@@ -43,6 +43,5 @@
     <img src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fpt%2Fimages%2Fsearch%2Fmontanhas%2F&psig=AOvVaw15mwAitpVib39zZ73-DVTm&ust=1680705650950000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjXt7-6kP4CFQAAAAAdAAAAABAE" width="15%">
     <img src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fpt%2Fimages%2Fsearch%2Fmontanhas%2F&psig=AOvVaw15mwAitpVib39zZ73-DVTm&ust=1680705650950000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjXt7-6kP4CFQAAAAAdAAAAABAE" width="15%">
     <img src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fpt%2Fimages%2Fsearch%2Fmontanhas%2F&psig=AOvVaw15mwAitpVib39zZ73-DVTm&ust=1680705650950000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjXt7-6kP4CFQAAAAAdAAAAABAE" width="15%">
-
 </body>
 </html>
